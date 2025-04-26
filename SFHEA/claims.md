@@ -91,8 +91,12 @@ Me + **Help others to ... **
 
 
 # Case study 2:
-- Interim course director, ongoing accreditation, and  working groups for implementing recommendations and assisting course directors with their course mappings and overall program curation.
-  - (Frances - interim course director, BIT, previous peer on accreditation activities) and invovlement in the engineering review / redesign
+- Senate and ASQC => 
+- Interim course director
+  - ongoing accreditation and history of accreditation activities
+  - working groups for implementing recommendations and assisting course directors 
+  - accreditation course mappings and overall program curation
+- (Frances - interim course director, BIT, previous peer on accreditation activities) and invovlement in the engineering review / redesign
 
 
  
